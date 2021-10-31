@@ -11,3 +11,5 @@ API DE CEP: https://viacep.com.br/
 API DE CPF:
 
 Link da arquitetura montada microserviço por microserviço:
+
+#DIAGRAMA GERAL : https://lucid.app/lucidchart/b401c571-4dce-42a6-b0b4-d7dbce1cb6d5/edit?viewport_loc=189%2C13%2C1441%2C972%2C0_0&invitationId=inv_f98dedb6-970e-41ea-9a11-51bc86e01f57
